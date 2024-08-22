@@ -8,11 +8,11 @@
 		<version>3.3.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>eams</groupId>
-	<artifactId>springboot</artifactId>
+	<groupId>eloiza</groupId>
+	<artifactId>properties-values</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot</name>
-	<description>Curso DIO - Spring Boot</description>
+	<name>properties-values</name>
+	<description>Properties values  for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>

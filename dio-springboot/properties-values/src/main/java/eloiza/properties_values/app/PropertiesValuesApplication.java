@@ -1,13 +1,13 @@
-package eams.springboot;
+package eloiza.properties_values.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootApplication {
+public class PropertiesValuesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootApplication.class, args);
+		SpringApplication.run(PropertiesValuesApplication.class, args);
 	}
 
 }
